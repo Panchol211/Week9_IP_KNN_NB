@@ -1,9 +1,10 @@
 # Week9_IP_KNN_NB
 
 
-# The project is to analysis two dataset
+# The project is to analysis two dataset below
 
 Dataset 1 , the application of KNN model to predict the chance of someone surviing the tatanic acccident.
+
 Dataset 2, The application Naive Bayes model to predict if the email is a spam or not spam .
 
 
